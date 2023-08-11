@@ -32,9 +32,9 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/beego/beego/v2/server/web/context"
-	"github.com/beego/beego/v2/server/web/context/param"
-	"github.com/beego/beego/v2/server/web/session"
+	"github.com/reaperhero/beego/v2/server/web/context"
+	"github.com/reaperhero/beego/v2/server/web/context/param"
+	"github.com/reaperhero/beego/v2/server/web/session"
 )
 
 var (

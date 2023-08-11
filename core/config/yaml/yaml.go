@@ -15,8 +15,8 @@
 // Package yaml for config provider
 // Usage:
 //  import(
-//   _ "github.com/beego/beego/v2/core/config/yaml"
-//     "github.com/beego/beego/v2/core/config"
+//   _ "github.com/reaperhero/beego/v2/core/config/yaml"
+//     "github.com/reaperhero/beego/v2/core/config"
 //  )
 //
 //  cnf, err := config.NewConfig("yaml", "config.yaml")
@@ -34,8 +34,8 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/beego/beego/v2/core/config"
-	"github.com/beego/beego/v2/core/logs"
+	"github.com/reaperhero/beego/v2/core/config"
+	"github.com/reaperhero/beego/v2/core/logs"
 )
 
 // Config is a yaml config parser and implements Config interface.

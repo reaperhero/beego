@@ -18,7 +18,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/beego/beego/v2/server/web/session"
+	"github.com/reaperhero/beego/v2/server/web/session"
 )
 
 // FileSessionStore File session store

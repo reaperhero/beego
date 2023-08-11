@@ -38,8 +38,8 @@
 //
 // Usage:
 // import(
-//   _ "github.com/beego/beego/v2/server/web/session/postgresql"
-//   "github.com/beego/beego/v2/server/web/session"
+//   _ "github.com/reaperhero/beego/v2/server/web/session/postgresql"
+//   "github.com/reaperhero/beego/v2/server/web/session"
 // )
 //
 //	func init() {
@@ -57,8 +57,8 @@ import (
 	// import postgresql Driver
 	_ "github.com/lib/pq"
 
-	"github.com/beego/beego/v2/adapter/session"
-	"github.com/beego/beego/v2/server/web/session/postgres"
+	"github.com/reaperhero/beego/v2/adapter/session"
+	"github.com/reaperhero/beego/v2/server/web/session/postgres"
 )
 
 // SessionStore postgresql session store

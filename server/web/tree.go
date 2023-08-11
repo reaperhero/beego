@@ -19,8 +19,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/beego/beego/v2/core/utils"
-	"github.com/beego/beego/v2/server/web/context"
+	"github.com/reaperhero/beego/v2/core/utils"
+	"github.com/reaperhero/beego/v2/server/web/context"
 )
 
 var allowSuffixExt = []string{".json", ".xml", ".html"}

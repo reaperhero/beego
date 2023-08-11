@@ -15,7 +15,7 @@
 // Package httplib is used as http.Client
 // Usage:
 //
-// import "github.com/beego/beego/v2/client/httplib"
+// import "github.com/reaperhero/beego/v2/client/httplib"
 //
 //	b := httplib.Post("http://beego.vip/")
 //	b.Param("username","astaxie")
@@ -51,8 +51,8 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/beego/beego/v2/core/berror"
-	"github.com/beego/beego/v2/core/logs"
+	"github.com/reaperhero/beego/v2/core/berror"
+	"github.com/reaperhero/beego/v2/core/logs"
 )
 
 const contentTypeKey = "Content-Type"

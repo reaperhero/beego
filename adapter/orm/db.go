@@ -15,7 +15,7 @@
 package orm
 
 import (
-	"github.com/beego/beego/v2/client/orm"
+	"github.com/reaperhero/beego/v2/client/orm"
 )
 
 // ErrMissPK missing pk error

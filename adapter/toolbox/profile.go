@@ -17,7 +17,7 @@ package toolbox
 import (
 	"io"
 
-	"github.com/beego/beego/v2/core/admin"
+	"github.com/reaperhero/beego/v2/core/admin"
 )
 
 // ProcessInput parse input command string

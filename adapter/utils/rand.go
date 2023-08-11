@@ -15,7 +15,7 @@
 package utils
 
 import (
-	"github.com/beego/beego/v2/core/utils"
+	"github.com/reaperhero/beego/v2/core/utils"
 )
 
 // RandomCreateBytes generate random []byte by specify chars.
